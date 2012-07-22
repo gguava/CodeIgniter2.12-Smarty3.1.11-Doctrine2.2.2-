@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.11, created on 2012-07-21 16:29:53
-         compiled from "/Users/guavatan/Sites/CodeIgniter-2-with-Doctrine-2/application/libraries/smarty/debug.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:878850063500a6881e73826-27274541%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.11, created on 2012-07-22 00:51:21
+         compiled from "/Users/guavatan/Sites/CodeIgniter2.12-Smarty3.1.11-Doctrine2.2.2-/application/libraries/smarty/debug.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:459171552500ade09b2c338-72350591%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    '56250e91e794073cfcf2ea94363bbd3fe85cc8ca' => 
+    '99c0dd9bf8e8614378912690ff5758769da2d159' => 
     array (
-      0 => '/Users/guavatan/Sites/CodeIgniter-2-with-Doctrine-2/application/libraries/smarty/debug.tpl',
-      1 => 1342577706,
+      0 => '/Users/guavatan/Sites/CodeIgniter2.12-Smarty3.1.11-Doctrine2.2.2-/application/libraries/smarty/debug.tpl',
+      1 => 1342888717,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '878850063500a6881e73826-27274541',
+  'nocache_hash' => '459171552500ade09b2c338-72350591',
   'function' => 
   array (
   ),
@@ -29,9 +29,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.11',
-  'unifunc' => 'content_500a6882033763_28778457',
+  'unifunc' => 'content_500ade09bdafd0_92873204',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_500a6882033763_28778457')) {function content_500a6882033763_28778457($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_debug_print_var')) include '/Users/guavatan/Sites/CodeIgniter-2-with-Doctrine-2/application/libraries/smarty/plugins/modifier.debug_print_var.php';
+<?php if ($_valid && !is_callable('content_500ade09bdafd0_92873204')) {function content_500ade09bdafd0_92873204($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_debug_print_var')) include '/Users/guavatan/Sites/CodeIgniter2.12-Smarty3.1.11-Doctrine2.2.2-/application/libraries/smarty/plugins/modifier.debug_print_var.php';
 ?><?php $_smarty_tpl->_capture_stack[0][] = array('_smarty_debug', 'debug_output', null); ob_start(); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">

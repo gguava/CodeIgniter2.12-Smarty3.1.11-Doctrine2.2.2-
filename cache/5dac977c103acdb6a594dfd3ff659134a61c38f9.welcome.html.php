@@ -1,25 +1,29 @@
-<?php /*%%SmartyHeaderCode:62199471500a6e63a39bb1-54546850%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:944432737500ade09adcee0-93562632%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5dac977c103acdb6a594dfd3ff659134a61c38f9' => 
     array (
       0 => './application/views/welcome.html',
-      1 => 1342860524,
+      1 => 1342996954,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '62199471500a6e63a39bb1-54546850',
+  'nocache_hash' => '944432737500ade09adcee0-93562632',
   'version' => 'Smarty-3.1.11',
-  'unifunc' => 'content_500a6e714edec7_46633825',
+  'unifunc' => 'content_500c81e32575c2_52511957',
+  'variables' => 
+  array (
+    'title' => 0,
+  ),
   'has_nocache_code' => false,
   'cache_lifetime' => 0,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_500a6e714edec7_46633825')) {function content_500a6e714edec7_46633825($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_500c81e32575c2_52511957')) {function content_500c81e32575c2_52511957($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>fuck</title>
+	<title>fuck you</title>
 
 	<style type="text/css">
 
